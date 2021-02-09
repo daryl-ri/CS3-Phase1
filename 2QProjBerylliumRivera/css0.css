@@ -1,0 +1,94 @@
+
+body{
+	background-color: #17135F;
+	margin:0;
+}
+.header{
+	text-align: left;
+	text-indent: 70px;
+	padding-left: 5px;
+	padding-bottom: 50px;
+	padding-top:50px;
+	color: #f5ed16;
+	font-size: 90px;
+	background-color: #210B51; 
+	font-family:Trebuchet MS, sans-serif;
+}
+.vid{
+	width:50%;
+}
+
+ul#menu li { 
+	display:inline;
+	font-size: 30px;
+	padding: 42px;
+	color: #f5ed16;
+	font-family:Trebuchet MS, sans-serif;
+}
+
+.header2{
+	background-color: #cc1002;
+	padding-left: 50px;
+	font-family:Trebuchet MS, sans-serif;
+}
+
+.logo img{
+
+	margin-left: 275px;
+	width: 800px;
+	height: 450px;
+}
+
+.cap {
+	width: 80%;
+	text-align: center;
+	font-style: bold;
+	font-size: 40px;
+	text-indent: 0;
+	border: thin silver solid;
+	font-family:Trebuchet MS, sans-serif;
+	margin-left: 130px;
+	padding-top:0px ;
+}
+
+.footer {
+	margin-top: 40px;	
+	padding-top: 40px;
+	padding-bottom: 40px;
+	width: 100%;
+	background-color: #cc1002 ;
+	color: white;
+	text-align: center;
+	font-family:Trebuchet MS, sans-serif;
+}
+#menu,a{
+	text-decoration: none;
+	color:#f5ed16; 
+	font-family:Trebuchet MS, sans-serif;
+}
+
+.img{
+	width: 100%;
+}
+
+.ron{
+	class: center;
+	height: 30%;
+	margin-left:460px;
+}
+}
+#sprite1 {
+	background: url('img_FB-Icon.png') 0 0;
+	width: 33px;
+	height: 33px;
+}
+#sprite2 {
+	background: url('img_tw.png') 0 0;
+	width: 33px;
+	height: 33px;
+}
+#sprite3 {
+	background: url('img_ig.jpg') 0 0;
+	width: 33px;
+	height: 33px;
+}
